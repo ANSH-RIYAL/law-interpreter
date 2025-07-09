@@ -62,72 +62,7 @@ Law Interpreter is designed to automatically access government websites, downloa
 - **CI/CD**: GitHub Actions
 - **Monitoring**: Prometheus & Grafana
 
-## 📋 Implementation Methodology
 
-### Phase 1: Foundation (Weeks 1-4)
-1. **Project Setup**
-   - Initialize repository structure
-   - Set up development environment
-   - Configure CI/CD pipeline
-
-2. **Core Infrastructure**
-   - Database schema design
-   - API framework setup
-   - Basic authentication system
-
-3. **Document Crawler**
-   - Government website mapping
-   - Automated download system
-   - Document format detection
-
-### Phase 2: Processing Engine (Weeks 5-8)
-1. **Document Processing**
-   - Text extraction pipeline
-   - Document structure parsing
-   - Metadata extraction
-
-2. **AI Integration**
-   - LLM API integration
-   - Prompt engineering for legal analysis
-   - Stakeholder categorization
-
-3. **Analysis Framework**
-   - Impact assessment algorithms
-   - Multi-perspective analysis
-   - Result formatting
-
-### Phase 3: Data Management (Weeks 9-12)
-1. **Data Storage**
-   - Structured database implementation
-   - Analysis result storage
-   - Caching system
-
-2. **Search & Retrieval**
-   - Full-text search implementation
-   - Semantic search capabilities
-   - Filtering and sorting
-
-### Phase 4: Blog Platform (Weeks 13-16)
-1. **Frontend Development**
-   - Next.js application setup
-   - Responsive design implementation
-   - User interface components
-
-2. **Content Management**
-   - Blog post generation
-   - Search functionality
-   - User engagement features
-
-### Phase 5: Deployment & Optimization (Weeks 17-20)
-1. **Production Deployment**
-   - Docker containerization
-   - Cloud infrastructure setup
-   - Monitoring and logging
-
-2. **Performance Optimization**
-   - Caching strategies
-   - Database optimization
-   - API performance tuning
 
 ## 📁 Project Structure
 
@@ -226,7 +161,7 @@ law-interpreter/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/law-interpreter.git
+   git clone https://github.com/ANSH-RIYAL/law-interpreter.git
    cd law-interpreter
    ```
 
@@ -307,11 +242,7 @@ law-interpreter/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@your-username]
 
 ## 🙏 Acknowledgments
 
